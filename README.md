@@ -2,4 +2,4 @@
 
 Testowy tekst do ćwiczenia commitów!
 First-branch
-Second-branch
+And third branch
